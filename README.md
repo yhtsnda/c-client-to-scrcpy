@@ -11,4 +11,4 @@ this is a demo client of c# + opencv for rendering scrcpy output
 
 2- in visual studio c# get nuget package opencvsharp 4, opencvsharp 4 runtime.
 
-3- copy paste or download my file program.cs and look the client for scrcpy.
+3- copy paste or download my file program.cs and run for the client for scrcpy.
