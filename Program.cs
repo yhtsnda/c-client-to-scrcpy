@@ -155,7 +155,8 @@ class Program
 
                 Thread ti3 = new Thread(new ThreadStart(() => Fun3()));
                 ti3.Start();
-
+                
+                Thread.Sleep(2000);
 
                 client2 = server2.AcceptTcpClient();
                 Console.WriteLine("Connected!========>2");
